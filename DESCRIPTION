@@ -1,0 +1,14 @@
+Package: CysMpro
+Type: Package
+Title: Mass Spectrometry-Based Structural Analysis of Metalloproteins
+Version: 1.0.0
+Author: Manuel D. Peris-Diaz
+Maintainer: Manuel D. Peris-Diaz <manuel.perisdiaz@uwr.edu.pl>
+Description: Data processing (baseline correction and smoothing) and annotation of native electrospray ionization mass spectrometry (ESI-MS), bottom-up and top-down mass spectrometry (MS). Based on a particular metal binding protein and MS experiment performed, the software might determine metal-to-protein stoichiometry, identify metal binding sites or analyze metal-coupled folding mechanisms. Briefly, a in silico library for a particular metal binding protein is generated and interrogated against experimental MS data calculating a set of scoring indexes that evaluates the annotation.
+Encoding: UTF-8
+License: GPL-2
+LazyData: true
+RoxygenNote: 7.1.0
+Imports: LICORS, enviPick, ggplot2, scales,pracma, utils, stats, graphics,grDevices, dplyr,mzR,OrgMassSpecR,MassSpecWavelet,ptw,gtools,Metrics,alsace, BBmisc,boot, plyr
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
