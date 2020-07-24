@@ -195,6 +195,7 @@ In=10,prob=FALSE,score_prob_threshold=Prob_score,missed=5)`
 
 1) Specify localization of experimental files and protein sequence.
 
+`Download the files: 1547.mzML, 1561.mzML, 1567.mzML`
 `setwd("Directory where is located the set of MS/MS files")`
 
 `sequence<-("MDPNCSCAAGDSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKGASDKCSCCA")`
@@ -220,6 +221,7 @@ In=10,prob=FALSE,score_prob_threshold=Prob_score,missed=5)`
 
 1) Specify localization of experimental files and protein sequence.
 
+`Download the file: MT1E_7_B_CID000005.mzML`
 `setwd("Directory where is located the set of MS/MS files")`
 
 `sequence<-("MDPNCSCAAGDSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKGASDKCSCCA")`
