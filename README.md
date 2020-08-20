@@ -1,12 +1,12 @@
-# CysMpro
+# MetaOdysseus
 
-CysMpro is an R-package designed for native MS, bottom-up and native top-down experiments aimed at:
+MetaOdysseus is an R-package designed for native MS, bottom-up and native top-down experiments aimed at:
 
 - Determining metal-to-protein stoichiometry.
 - Identification of metal binding sites and mapping of Cys residues coordinating metal ions.
 - Analysis of protein structure and folding. 
 
-CysMpro address:
+MetaOdysseus address:
  -Charge-state deconvolution.
  -Statistical scoring.
  -Mass assignment of protein complexes.
@@ -17,11 +17,11 @@ The following sections will examplify some examples published in (doi:)
 
 `install.packages("devtools")`
 
-`devtools::install_github("ManuelPerisDiaz/CysMpro")`
+`devtools::install_github("ManuelPerisDiaz/MetaOdysseus")`
 
 Download data set for next examples from:
 
-https://github.com/ManuelPerisDiaz/Data_CysMpro
+https://github.com/ManuelPerisDiaz/Data_MetaOdysseus
 
 
 # Examples
