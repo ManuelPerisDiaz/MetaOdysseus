@@ -17,7 +17,7 @@ The following sections will examplify some examples published in (doi:)
 
 `install.packages("devtools")`
 
-`devtools::install_github("ManuelPerisDiaz/MetaOdysseus")`
+`devtools::install_github("ManuelPerisDiaz/CysMpro")`
 
 Download data set for next examples from:
 
