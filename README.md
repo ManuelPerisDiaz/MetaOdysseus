@@ -198,7 +198,7 @@ In=10,prob=FALSE,score_prob_threshold=Prob_score,missed=5)`
 `Download the files: 1547.mzML, 1561.mzML, 1567.mzML`
 `setwd("Directory where is located the set of MS/MS files")`
 
-`sequence<-("MDPNCSCAAGDSCTCAGSCKCKECKCTSCKKSCCSCCPVGCAKCAQGCICKGASDKCSCCA")`
+`sequence<-("MDPETCPCPSGGSCTCADSCKCEGCKCTSCKKSCCSCCPAECEKCAKDCVCKGGEAAEAEAEKCSCCQ")`
 
 2) Pre-processing and annotation of experimental spectra
 
